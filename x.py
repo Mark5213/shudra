@@ -1,5 +1,5 @@
-test
 
-print "hey"
+print "hej"
 
-print 3*9
+hej = (6/2)*7
+
